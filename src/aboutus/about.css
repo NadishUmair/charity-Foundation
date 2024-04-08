@@ -1,0 +1,14 @@
+#aboutus{
+    
+   background-image: url('./wave.png');
+   background-repeat: no-repeat;
+  background-position: center;
+   background-size: cover;
+
+}
+#aboutus h3{
+   font-weight: 700;
+}
+#aboutus h5{
+   font-weight: 700;
+}

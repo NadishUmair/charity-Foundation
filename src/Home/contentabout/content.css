@@ -1,0 +1,18 @@
+#abouthomepage{
+    font-size: 1.1rem;
+    background-color: ghostwhite;
+   
+    margin-top: 2rem;
+}
+
+#readmoreabout{
+    font-weight: 700;
+     color: rgb(255,165,0);
+     text-decoration: none;
+     font-size: 0.8rem;
+    transition:  ease-in-out 0.2s;
+}
+#readmoreabout:hover{
+    color: black;
+    
+}

@@ -1,0 +1,41 @@
+
+#logo{
+    background-image: url('./Logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+}
+#navcolor{
+   
+   
+    box-shadow: 1px 1px 0.5px 0.5px rgba(219, 219, 218, 0.333), 0 2px 4px 0 rgba(230, 230, 227, 0.19);
+  
+}
+
+#links li a{
+ font-weight: 700;
+ text-decoration: none;
+ 
+}
+#links li a:hover{
+ color: rgb(104, 103, 103);
+}
+#links li {
+ list-style: none;
+
+}
+#toggler{
+    border-radius: 5%;
+}
+.contact-btn{
+    background-color: rgb(255,165,0);
+    color: white;
+}
+.contact-btn:hover{
+    color: black;
+    border: 1px solid black;
+}

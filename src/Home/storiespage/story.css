@@ -1,0 +1,42 @@
+
+.child1{
+    background-image: url('./child1.jpg');
+    left: 50%;
+    top: 30%;
+   
+}
+.child2{
+    background-image: url('./child2.jpg');
+   left: 22%;
+   top: 60%;
+   right: 40%;
+}
+.child3{
+    background-image: url('./child3.jpg');
+    top:0%;
+    left: 20%;
+}
+.childimg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+    width: 170px;
+    /* border: 1px solid  rgb(255,165,0); */
+    position: absolute;
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 4px 8px 0 rgba(36, 36, 36, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.childimg:hover{
+     transform: scale(1.1);
+}
+#storyimgcontainer{
+    height: 450px;
+    padding: 1rem;
+ 
+}
+#storyimgs{
+   position: relative;
+
+  height: 100%;
+}

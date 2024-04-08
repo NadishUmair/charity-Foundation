@@ -1,0 +1,21 @@
+#donation{
+    height: 80vh;
+}
+#easypaisa{
+    background-image: url('./easypaisa.png');
+}
+#jazzcash{
+    background-image: url('./jazzcash.png');
+}
+.account-icons{
+    height: 4rem;
+    width: 4rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#bankaccount{
+   background-color: white;
+ background-image: url('./bank.png');
+ background-color: wheat;
+}

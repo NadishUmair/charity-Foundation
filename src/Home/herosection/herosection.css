@@ -1,0 +1,70 @@
+
+#hero-section{
+    height: 90vh;
+    background-color: rgba(255, 255, 255, 0.712);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.546), rgba(0, 0, 0, 0.482)), url('./herosect.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hero-section .heroheading{
+   line-height: 150%;
+  font-weight: 500;
+   color: rgba(255, 255, 255, 0.918)
+}
+#hero-img{
+   border-radius: 40% 0% 40% 0%;
+    
+}
+#hero-img:hover{
+  background-color: red;
+    
+}
+.c-orange{
+    color: rgb(255,165,0);
+    font-weight: 700;
+}
+#notification{
+ padding: 1rem;
+  top: 10%;
+  left: 0%;
+   z-index: 1;
+   
+}
+.img1{
+   background-image: url('../storiespage/child1.jpg');
+}
+.img2{
+   background-image: url('../storiespage/child2.jpg');
+}
+.img3{
+   background-image: url('../storiespage/child3.jpg');
+}
+.notimg{
+   width: 100px;
+   height: 100px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+.close-btn{
+top: 0%;
+ left: 90%;
+}
+#modal{
+   background-color: rgba(250, 250, 250);
+   z-index: 100;
+}
+.modalbtn{
+   text-decoration: none;
+   padding: 0.3rem 0.5rem;
+   border:1px solid  rgb(255,165,0) ;
+   color:rgb(255,165,0) ;
+   transition: color 0.3s ease-in-out;
+}
+.modalbtn:hover{
+   border:1px solid  rgb(4, 4, 4) ;
+   color:rgb(0, 0, 0) ;
+    
+}
+

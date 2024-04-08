@@ -1,0 +1,83 @@
+#bloodwing{
+  
+   padding: 1rem;
+}
+
+#bloodherosection{
+  
+   color: rgb(179, 1, 1);
+    padding: 1rem;
+    height: 85vh;
+   background-image:url(./bldbg.svg);
+    background-repeat: no-repeat;
+    
+   background-size: cover;
+   
+  
+}
+#nsfbldlogo{
+      height: 310px;
+    
+      width: 310px;
+    background-image: url('./nsfbloodlogo.png');
+    background-position: center;
+    background-size: cover;
+}
+#bloodsection{
+    color: rgb(201, 3, 3);
+    background-image: url('./bloodlogo.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    height: 90vh;
+}
+.bloodheading{
+   font-family:  'Gill Sans MT';
+}
+.blood-icon{
+    font-size: 100px;
+    
+}
+
+.opty{
+    font-size: 1.3rem;
+ 
+   
+}
+.blood-card{
+   border: none;
+
+    
+   padding: 1rem;
+   transition: ease-in-out 0.5s;
+}
+
+.blood-card p{
+     font-size: 1.2rem;
+}
+.card-heading{
+     color: rgb(197, 9, 9);
+     font-size: 1.4rem;
+     font-weight: 700;
+     padding: 1rem 0rem;
+     border-bottom: 1px solid rgb(197, 9, 9);
+}
+.blood-logo{
+    height: 200px;
+    width: 200px;
+}
+.blood-logo img{
+    border-radius:50%;
+    border: 2px solid red;
+}
+.phone-icon{
+    font-size: 1.8rem;
+}
+.phone-container{
+    margin-top: 2rem;
+    text-align: center;
+}
+.phone-container a{
+    text-decoration: none;
+    color:rgb(255,165,0) ;
+}

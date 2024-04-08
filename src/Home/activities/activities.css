@@ -1,0 +1,30 @@
+.showmore{
+    border: none;
+   font-size: 1rem;
+   font-weight: 400;
+   background-color: white;
+    color: rgb(255,165,0);
+  
+}
+#activities{
+    overflow: hidden;
+}
+.showmore:hover{
+   color: rgb(0, 0, 0);
+}
+.showless{
+    color:rgb(186, 71, 13);
+    border: none;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: white;
+}
+#activitybox h5{
+     color: rgb(20, 20, 20);
+}
+#activitybox{
+    transition: ease-in-out 0.2s;
+}
+#activitybox:hover{
+    transform: scale(1.09);
+}

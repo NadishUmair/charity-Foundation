@@ -1,0 +1,22 @@
+
+.project-card{
+   border: 1px solid rgb(255,165,0);
+    border-radius: 0%;
+    padding: 0.5rem;
+    padding-bottom: 0%;
+    color: rgba(0, 0, 0, 0.742);
+    
+}
+
+
+.project-card h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+    
+}
+.project-card h4{
+    
+    font-weight: 700;
+   
+}
